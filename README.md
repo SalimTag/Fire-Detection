@@ -9,4 +9,4 @@ This project uses YOLOv8 for real-time fire detection. It includes training, tes
 # Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/YOLOv8-FireDetection.git
+  
